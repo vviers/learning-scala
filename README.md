@@ -1,3 +1,13 @@
+# GDP App
+
+A very simple progran that queries GDP data for a country from the world bank API and prints it.
+
+## To run the app:
+* run the program
+```
+scala gdp_app.scala
+```
+
 # `Scala Pokerhand App`
 
 My very first attempt at programming in Scala. Mostly keeping this here as a note-to-self.
