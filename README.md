@@ -1,4 +1,4 @@
-# GDP App
+# `GDP App`
 
 A very simple progran that queries GDP data for a country from the world bank API and prints it.
 
